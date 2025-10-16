@@ -1,5 +1,7 @@
 let table;
 
+
+
 function preload() {
   // put preload code here
   table = loadTable("dataset.csv","csv","header");
